@@ -1,6 +1,5 @@
 package test.day13;
 
-import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 import utilities.TestBase;
 

@@ -6,8 +6,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.TestBase;
 
-import java.awt.*;
-
 public class C05_FileUpLoad extends TestBase {
     // https://the-internet.herokuapp.com/upload adresine gidin
     //chooseFile butonuna basın
